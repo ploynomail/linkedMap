@@ -1,4 +1,4 @@
-module github.com/ploynomail/linkedMap
+module github.com/ploynomail/linkedmap
 
 go 1.22.1
 
